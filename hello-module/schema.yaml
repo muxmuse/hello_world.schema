@@ -1,0 +1,4 @@
+kind: Module
+dependencies:
+  - ../io
+  - github.com/muxmuse/hello.schema
