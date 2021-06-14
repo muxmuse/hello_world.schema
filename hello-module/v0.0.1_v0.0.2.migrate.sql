@@ -1,0 +1,1 @@
+ALTER TABLE HELLO_WORLD.T_GREETZ ADD salutation_de varchar(2048)

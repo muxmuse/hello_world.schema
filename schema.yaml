@@ -1,5 +1,5 @@
 kind: Schema
 name: HELLO_WORLD
 description: Demo package for schemapm
-gitTag: v0.0.2
+gitTag: v0.0.3
 gitRepoUrl: git@github.com:muxmuse/hello_world.schema.git
